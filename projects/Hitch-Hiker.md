@@ -16,20 +16,20 @@
 
 ## 2. 사용 기술
 #### `Back-end`
-  - Java 11
-  - Spring Boot
-  - Gradle
-  - Spring Data JPA
-  - QueryDSL
-  - MySQL
-  - Spring Security
-  - JWT
-  - Redis
-  - WebSocket
+[![Java](https://img.shields.io/badge/Java-17-orange)]()
+[![SpringBoot](https://img.shields.io/badge/SpringBoot-2.7.3-darkgreen)]()
+[![SpringJPA](https://img.shields.io/badge/SpringJPA-2.7.2-darkgreen)]()
+[![Querydsl](https://img.shields.io/badge/Querydsl-5.0.0-skyblue)]()
+[![SpringSecurity](https://img.shields.io/badge/SpringSecurity-5.7.3-darkgreen)]()
+[![JWT](https://img.shields.io/badge/JWT-3.19.2-purple)]()
+[![Redis](https://img.shields.io/badge/Redis-6.2.6-red)]()
+[![MySQL](https://img.shields.io/badge/MySQL-8.0.3-blue)]()
+[![AWS](https://img.shields.io/badge/AWS-2.16.65-gold)]()
+[![WebSocket](https://img.shields.io/badge/WebSocket-9.0.65-black)]()
 #### `Front-end`
-  - React.js
-  - Styled-Component
-  - Toast-UI
+[![React.js](https://img.shields.io/badge/React-18.2.0-lightblue)]()
+[![Styled_Components](https://img.shields.io/badge/Styled_Components-5.3.5-pink)]()
+[![Toast_UI](https://img.shields.io/badge/Toast_UI-3.0.0-purple)]()
 
 </br>
 
