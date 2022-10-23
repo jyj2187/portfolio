@@ -27,8 +27,7 @@
 >Java 11 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
 >MySQL / Spring Security / JWT / WebSocket / React.js / AWS
 >
->참고 :
->[프로젝트 상세 설명](https://github.com/jyj2187/portforlio/blob/main/projects/Hitch-Hiker.md) 참고
+>참고 : [프로젝트 상세 설명](https://github.com/jyj2187/portforlio/blob/main/projects/Hitch-Hiker.md)
 
 ---
 
