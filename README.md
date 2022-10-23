@@ -26,7 +26,7 @@
 >MySQL / Spring Security / JWT / WebSocket / React.js / AWS
 >
 >참고 :
->[프로젝트 상세 설명](https://github.com/jyj2187/portforlio/blob/main/projects/Hitch-Hiker.md) /
+>[프로젝트 상세 설명](https://github.com/jyj2187/portforlio/blob/main/projects/Hitch-Hiker.md) 참고
 
 ---
 
