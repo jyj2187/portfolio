@@ -232,7 +232,7 @@ public void saveImages(List<String> imagePathList, Posts posts) {
           <summary><b>작성 코드</b></summary>
         <div markdown="1">
 
-        - 이벤트를 발행하는 Transaction(ex. 매칭 신청글 작성, 매칭 수락 혹은 거절)이 Commit되면 이벤트 리스터가 작동하도록 합니다.
+        - 이벤트를 발행하는 Transaction(ex. 매칭 신청글 작성, 매칭 수락 혹은 거절)이 Commit되면 이벤트 리스가 작동하도록 합니다.
         ```Java
         @Transactional(propagation = Propagation.REQUIRES_NEW)
         @TransactionalEventListener(phase = TransactionPhase.AFTER_COMMIT)
