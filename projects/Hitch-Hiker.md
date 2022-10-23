@@ -45,7 +45,7 @@ Hitch-Hiker의 핵심 기능은 여행 매칭 기능입니다.
 모집 게시글 작성자는 참여 신청자의 정보 혹은 연락을 통해 수락과 거절을 선택할 수 있습니다.
 
 <details>
-<summary><b>API Flow Chart 보기</b></summary>
+<summary><b>핵심 기능 API Flow Chart 펼치기</b></summary>
 <div markdown="1">
   
 ![슬라이드8](https://user-images.githubusercontent.com/43122133/195167412-c503c202-9c56-4062-bd30-17251c9617a9.PNG)
@@ -54,9 +54,11 @@ Hitch-Hiker의 핵심 기능은 여행 매칭 기능입니다.
   
 </div>
 </details>
+ 
+<!-- [핵심 기능 시연 보러가기](https://github.com/jyj2187/hitch_hiker/wiki/How-to-use) -->
 
 <details>
-<summary><b>핵심 기능 설명 펼치기</b></summary>
+<summary><b>핵심 기능 시연 펼치기</b></summary>
 <div markdown="1">
 
 ***토글을 눌러 기능별 시연을 확인할 수 있습니다***
