@@ -22,8 +22,10 @@
 >기술 스택:  
 >Java 11 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
 >MySQL / Spring Security / JWT / WebSocket / React.js / AWS
->  
->[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
+
+>참고 :
+>[프로젝트 주소](https://github.com/jyj2187/hitch_hiker) 
+>[프로젝트 Wiki](https://github.com/jyj2187/hitch_hiker/wiki) 
 
 ---
 
