@@ -25,7 +25,8 @@
 >
 >참고 :
 >[프로젝트 주소](https://github.com/jyj2187/hitch_hiker) /
->[프로젝트 Wiki](https://github.com/jyj2187/hitch_hiker/wiki) 
+>[프로젝트 Wiki](https://github.com/jyj2187/hitch_hiker/wiki) /
+>[배포 링크](https://hitch-hiker.kr/)
 
 ---
 
