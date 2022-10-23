@@ -27,7 +27,11 @@
 >Java 11 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
 >MySQL / Spring Security / JWT / WebSocket / React.js / AWS
 >
->참고 : [프로젝트 상세 설명](https://github.com/jyj2187/portforlio/blob/main/projects/Hitch-Hiker.md)
+>설명: Hitch-Hiker는 혼자 여행하면서 겪는 불편함을 해소하기 위하여  
+>여행 일정과 지역에 맞춰 모집 게시글을 올리거나  
+>혹은 자신의 여행 목적에 부합하는 모임에 참여할 수 있습니다.  
+>
+>참고: [프로젝트 상세 설명](https://github.com/jyj2187/portforlio/blob/main/projects/Hitch-Hiker.md)
 
 ---
 
