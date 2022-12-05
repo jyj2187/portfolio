@@ -436,3 +436,14 @@ public void saveImages(List<String> imagePathList, Posts posts) {
 
 </div>
 </details>
+          
+<details>
+<summary>ALB를 적용한 2대 이상의 서버에서 OAuth2 적용되지 않는 문제</summary>
+<div markdown="1">
+
+- 로드 밸런싱의 라운드 로빈 알고리즘은 트래픽을 순차적으로 다른 서버에 보낸다.
+- 각 서버가 받는 토큰과 세션 정보가 일치하지 않기 때문에 OAuth2 인증에서 존재하지 않는 인증 정보라고 오류 발생.
+- 로드 밸런서에 Stickness를 적용하여 일정 기간동안 특정 클라이언트에 온 트래픽에 ALB에서 발행한 쿠키를 붙여준다.
+
+</div>
+</details>
