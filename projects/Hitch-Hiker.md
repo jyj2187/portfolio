@@ -17,19 +17,20 @@
 ## 2. 사용 기술
 #### `Back-end`
 [![Java](https://img.shields.io/badge/Java-11-orange?style=for-the-badge)]()
-[![SpringBoot](https://img.shields.io/badge/SpringBoot-2.7.3-darkgreen?style=for-the-badge)]()
-[![SpringDataJPA](https://img.shields.io/badge/SpringDataJPA-2.7.3-darkgreen?style=for-the-badge)]()
-[![SpringSecurity](https://img.shields.io/badge/SpringSecurity-5.7.3-darkgreen?style=for-the-badge)]()
-[![JWT](https://img.shields.io/badge/JWT-3.19.2-purple?style=for-the-badge)]()
-[![Redis](https://img.shields.io/badge/Redis-6.2.6-red?style=for-the-badge)]()
-[![Querydsl](https://img.shields.io/badge/Querydsl-5.0.0-skyblue?style=for-the-badge)]()
-[![MySQL](https://img.shields.io/badge/MySQL-8.0.3-blue?style=for-the-badge)]()
-[![AWS](https://img.shields.io/badge/AWS-2.16.65-gold?style=for-the-badge)]()
-[![WebSocket](https://img.shields.io/badge/WebSocket-9.0.65-black?style=for-the-badge)]()
+[![SpringBoot](https://img.shields.io/badge/SpringBoot-darkgreen?style=for-the-badge)]()
+[![JPA](https://img.shields.io/badge/JPA-darkgreen?style=for-the-badge)]()
+[![SpringSecurity](https://img.shields.io/badge/SpringSecurity-darkgreen?style=for-the-badge)]()
+[![JWT](https://img.shields.io/badge/JWT-purple?style=for-the-badge)]()
+[![Redis](https://img.shields.io/badge/Redis-red?style=for-the-badge)]()
+[![Querydsl](https://img.shields.io/badge/Querydsl-skyblue?style=for-the-badge)]()
+[![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge)]()
+[![AWS](https://img.shields.io/badge/AWS-gold?style=for-the-badge)]()
+[![Kafka](https://img.shields.io/badge/Kafka-black?style=for-the-badge)]()
 #### `Front-end`
-[![React.js](https://img.shields.io/badge/React-18.2.0-lightblue?style=for-the-badge)]()
-[![Styled_Components](https://img.shields.io/badge/Styled_Components-5.3.5-pink?style=for-the-badge)]()
-[![Toast_UI](https://img.shields.io/badge/Toast_UI-3.0.0-purple?style=for-the-badge)]()
+[![React.js](https://img.shields.io/badge/React-lightblue?style=for-the-badge)]()
+[![ReactRedux](https://img.shields.io/badge/React-redux-lightpurple?style=for-the-badge)]()
+[![Styled_Components](https://img.shields.io/badge/Styled_Components-pink?style=for-the-badge)]()
+[![Toast_UI](https://img.shields.io/badge/Toast_UI-purple?style=for-the-badge)]()
 
 </br>
 
