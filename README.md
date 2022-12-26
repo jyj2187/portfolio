@@ -25,8 +25,8 @@
 >개발 기간: 2022.9.13 ~ 2022.10.12  
 >  
 >기술 스택:  
->Java 11 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->MySQL / Spring Security / JWT / WebSocket / React.js / AWS
+>Java 11 / Spring Boot / JPA / QueryDSL  
+>MySQL / Spring Security / JWT / React.js / AWS
 >
 >설명: Hitch-Hiker는 혼자 여행하면서 겪는 불편함을 해소하기 위하여  
 >여행 일정과 지역에 맞춰 모집 게시글을 올리거나  
