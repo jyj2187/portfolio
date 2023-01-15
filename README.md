@@ -20,7 +20,7 @@
 </br>
 
 # :pushpin: Projects
-### 1. [Hich-Hiker](https://github.com/jyj2187/hitch_hiker)
+### 1. [Hich-Hiker](https://github.com/jyj2187/hitch-hiker)
 >혼자 여행하는 사람들을 위한 여행 친구 매칭 서비스 (팀 프로젝트)  
 >개발 기간: 2022.9.13 ~ 2022.10.12  
 >  
